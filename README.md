@@ -1,4 +1,2 @@
-/**
  *  Autor: Djani Kevin
- */
 # Zoo
